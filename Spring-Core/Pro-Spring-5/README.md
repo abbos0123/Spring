@@ -5,3 +5,22 @@ This book updates the perennial bestseller with the latest that the new Spring F
 
 ## Book content 📖
 
+## Book content 
+
+|Chapter|Name|Practice(code)|Related Resource|Status|
+|-------|----|--------------|----------------|------|
+|1|__|||✔️|
+|2|__|||✔️|
+|3|__|||✔️|
+|4|__|||✔️|
+|5|__|||✔️|
+|6|__|||✔️|
+|7|__|||✔️|
+|8|__|||✔️|
+|9|__|||✔️|
+|10|__|||⌛|
+|11|__|||⌛|
+|12|__|||⌛|
+|13|__|||⌛|
+|14|__|||⌛|
+|15|__|||⌛|
