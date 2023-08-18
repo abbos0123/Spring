@@ -2,7 +2,7 @@
 
 Spring Boot in Action is a developer-focused guide to writing applications using Spring Boot. In it, you'll learn how to bypass configuration steps so you can focus on your application's behavior. Spring expert Craig Walls uses interesting and practical examples to teach you both how to use the default settings effectively and how to override and customize Spring Boot for your unique environment. Along the way, you'll pick up insights from Craig's years of Spring development experience.
 
-## Book content 📓
+## Book content 📚
 |Chapter|Name|Practice(code)|Related Resource|Status|
 |-------|----|--------------|----------------|------|
 |1|_Bootstarting Spring_|||📖|
