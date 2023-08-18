@@ -11,3 +11,7 @@ Even with all these technologies, Spring is a lightweight framework that can be 
 At a macro-level, we can consider the Spring framework a collection of sub frameworks such as Spring Web Flow, Spring MVC, and Spring ORM. In addition to Java, Spring also supports Kotlin and Groovy.
 
 ## Stady plan 📚
+
+|No|Name|Sourse|Status|
+|--|----|------|------|
+|1.|[Spring start here](https://github.com/abbos0123/Spring/tree/main/Spring-Core/Start-Here)|```Book``` ```Spring start here```|:heavy_check_mark:|
