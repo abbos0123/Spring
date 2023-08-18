@@ -14,6 +14,7 @@ Examples of how you, as an application developer, can use the Spring platform ad
  
 |No|Topics|Resources|Status|
 |--|-------------------------|---------|------|
+|1|Spring Core|[Spring Core](https://github.com/abbos0123/Spring/tree/main/Spring-Core)|📖|
 |1|Spring Boot|[Spring Boot](https://github.com/abbos0123/Spring/edit/main/README.md)|:hourglass:|
 |2|Microservices|[Microservices](https://github.com/abbos0123/Microservices)|:book:|
 |3|Spring security|[Spring Security]()|:hourglass:|
