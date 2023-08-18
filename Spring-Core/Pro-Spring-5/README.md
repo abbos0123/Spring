@@ -9,18 +9,21 @@ This book updates the perennial bestseller with the latest that the new Spring F
 
 |Chapter|Name|Practice(code)|Related Resource|Status|
 |-------|----|--------------|----------------|------|
-|1|__|||✔️|
-|2|__|||✔️|
-|3|__|||✔️|
-|4|__|||✔️|
-|5|__|||✔️|
-|6|__|||✔️|
-|7|__|||✔️|
-|8|__|||✔️|
-|9|__|||✔️|
-|10|__|||⌛|
-|11|__|||⌛|
-|12|__|||⌛|
-|13|__|||⌛|
-|14|__|||⌛|
-|15|__|||⌛|
+|1|_Introducing Spring_|||📖|
+|2|_Getting Started_|||⌛|
+|3|_Introducing IoC and DI in Spring_|||⌛|
+|4|_Spring Configuration in Detail and Spring Boot_|||⌛|
+|5|_Introducing Spring AOP_|||⌛|
+|6|_Spring JDBC Support_|||⌛|
+|7|_Using Hibernate in Spring_|||⌛|
+|8|_Data Access in Spring with JPA2_|||⌛|
+|9|_Transaction Management_|||⌛|
+|10|_Validation with Type Conversion and Formatting_|||⌛|
+|11|_Task Scheduling_|||⌛|
+|12|_Using Spring Remoting_|||⌛|
+|13|_Spring Testing_|||⌛|
+|14|_Scripting Support in Spring_|||⌛|
+|15|_Application Monitoring_|||⌛|
+|16|_Web Applications_|||⌛|
+|17|_WebSocket_|||⌛|
+|18|_Spring Projects: Batch, Integration, XD, and More_|||⌛|
