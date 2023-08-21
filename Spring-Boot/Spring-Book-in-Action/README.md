@@ -11,5 +11,5 @@ Spring Boot in Action is a developer-focused guide to writing applications using
 |5|_Getting Groovy with the Spring Boot CLI_|||⌛|
 |6|_Applying Grails in Spring Boot_|||⌛|
 |7|_Taking a peek inside with the Actuator_|||⌛|
-|8|__Deploying Spring Boot applications|||⌛|
+|8|_Deploying Spring Boot applications_|||⌛|
 
