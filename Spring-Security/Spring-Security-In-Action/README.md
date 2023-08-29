@@ -1,7 +1,6 @@
 # Spring Secutiry In Action
 Spring Security in Action shows you how to prevent cross-site scripting and request forgery attacks before they do damage. You’ll start with the basics, simulating password upgrades and adding multiple types of authorization. As your skills grow, you'll adapt Spring Security to new architectures and create advanced OAuth2 configurations. By the time you're done, you'll have a customized Spring Security configuration that protects against threats both common and extraordinary.
 
-## Book content
 
 ## Book content 📚
 |Chapter|Name|Practice(code)|Related Resource|Status|
