@@ -5,5 +5,5 @@ We take an opinionated view of the Spring platform and third-party libraries so 
 ## Study plan 📚
 |No|Name|Sourse|Status|
 |--|----|------|------|
-|1.|[Spring Boot in Action](https://github.com/abbos0123/Spring/tree/main/Spring-Boot/Spring-Book-in-Action)|```Book``` ```Spring Boot in Action```|📖|
+|1.|[Spring Boot in Action](https://github.com/abbos0123/Spring/tree/main/Spring-Boot/Spring-Book-in-Action)|```Book``` ```Spring Boot in Action```|✔️|
 
