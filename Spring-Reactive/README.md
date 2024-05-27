@@ -4,4 +4,4 @@ Reactive systems have certain characteristics that make them ideal for low-laten
 ## Study plan 📚
 |No|Name|Sourse|Status|
 |--|----|------|------|
-|1.|[Reactive Spring (Josh Long)](https://github.com/abbos0123/Spring/tree/main/Spring-Reactive/Reactive-Spring-Josh-Long)|```Book``` ```Spring Reactive```|📖|
+|1.|[Reactive Spring (Josh Long)](https://github.com/abbos0123/Spring/tree/main/Spring-Reactive/Reactive-Spring-Josh-Long)|```Book``` ```Spring Reactive```|✔️|
