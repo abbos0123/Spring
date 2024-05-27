@@ -16,5 +16,5 @@
 |11|_Reactor_|||✔️|
 |12|_Reactive Data Access_|||✔️|
 |13|_Reactive HTTP Services_|||✔️|
-|14|_Testing Reactive Spring Applications_|||⌛|
-|15|_Colophon for Reactive Spring_|||⌛|
+|14|_Testing Reactive Spring Applications_|||✔️|
+|15|_Colophon for Reactive Spring_|||✔️|
